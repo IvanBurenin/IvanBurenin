@@ -27,7 +27,7 @@ ___
 <div>
     <div>
         <img src='/skills-images/css-skill.png'>
-        <img src='/skills-images/css-skill1.png'>
+        <img src='/skills-images/css-skill2.png'>
         <img src='/skills-images/js-skill.png'>
     </div>
     <div>
