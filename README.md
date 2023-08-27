@@ -38,7 +38,7 @@
         <img src='/skills-images/ps-skill.png'>
     </div>
     <div>
-        <img>
+        <img src='/skills-images/wp-skill.png'>
     </div>
 </div>
 
