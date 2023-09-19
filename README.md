@@ -55,4 +55,5 @@
     <a href='mailto:stylespeedquality@mail.ru'>
         <img src='/links-images/mail.png' style='border-radius: 10px'>
     </a>
+    <img src='/links-images/tg.png'>
 </div>
