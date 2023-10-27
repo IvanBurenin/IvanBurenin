@@ -46,9 +46,6 @@
 Если вы хотите сделать заказ или обсудить возможное сотрудничество, не стесняйтесь связаться со мной. С радостью обсудим детали и начнем работу над вашим проектом. Приглашаю к сотрудничеству:
 
 <div>
-    <a href='https://kwork.ru/user/bureninivan22'>
-        <img src='/links-images/kwork.png' style='border-radius: 10px'>
-    </a>
     <a href='https://vk.com/ivanburenin77'>
         <img src='/links-images/vk.png' style='border-radius: 10px'>
     </a>
