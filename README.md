@@ -2,6 +2,7 @@
 </br>
 <img src="/gif3.gif" alt="иван буренин" width="100%">
 приплыли наxyй
+https://www.youtube.com/watch?v=b7pIMeDG4rc
 
 
 
